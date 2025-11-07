@@ -1,12 +1,18 @@
-body{
+body {
     background-color: rgb(178, 225, 236);
-    font-family:Bebas Neue;
-color:aliceblue
+    font-family: Bebas Neue;
+    color: aliceblue
 }
-header{
-    font-size:50px;
-    text-align:center;
+
+header {
+    font-size: 50px;
+    text-align: center;
 }
-.top1{
-    background-color:rgb(243, 143, 193)
+
+.top1 {
+    background-color: rgb(243, 143, 193);
+    color: darkred;
+text-align:center;
+padding:40px;
+
 }
